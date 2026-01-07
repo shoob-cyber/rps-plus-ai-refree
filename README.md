@@ -200,12 +200,3 @@ The focus is on **correctness, clarity, and engineering fundamentals**.
 
 ---
 
-### ✅ Final step
-1. Paste this into `README.md`
-2. Commit
-3. Push
-4. Submit
-
-You’re **fully done** now.  
-If you want, I can do a **final repo audit** before submission — just say the word 👊
-```
