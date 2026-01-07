@@ -197,6 +197,3 @@ This project demonstrates:
 The focus is on **correctness, clarity, and engineering fundamentals**.
 
 ```
-
----
-
