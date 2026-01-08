@@ -119,6 +119,13 @@ Each round clearly displays:
 * Bot move
 * Round winner
 
+#Screenshots 
+
+<img width="1105" height="579" alt="image" src="https://github.com/user-attachments/assets/731f99bf-1dce-47c9-97ec-990474358b8c" />
+<img width="1120" height="644" alt="image" src="https://github.com/user-attachments/assets/e46409d5-df23-4c47-8235-cfbd4bcaf1b0" />
+
+
+
 ---
 
 ## ▶️ How to Run
